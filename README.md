@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/high-pressure-food-processing-vessel-explainer/
 
+Repository: https://github.com/mizcausevic-dev/high-pressure-food-processing-vessel-explainer
+
 ## What this is
 
 An interactive anatomy plate for High-Pressure Food Processing Vessel. Play, scrub, or jump the five stages. The same frame always draws the same picture.
